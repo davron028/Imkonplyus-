@@ -1,0 +1,234 @@
+#goup{
+	font-size: 30px;
+	font-weight: bold;
+}
+.bottom{
+	margin-bottom: 3%;
+}
+.VER{
+	margin-top: 5%;
+}
+.image{
+  	background-color: rgba(234,228,117,0.5);
+}
+.bot_dis{
+	display: inline;
+}
+#kachestvo{
+	padding-top: 4%;
+	
+	font-size: 20px;
+	padding-bottom: 4%;
+	font-weight: bold;
+	background-color:rgba(48,45,63,0.7);
+	letter-spacing: 1px;
+}
+#headice{
+	font-family: "Calibri";
+	
+	margin-bottom:4%; 
+	font-size: 60px;
+	font-weight: bold;
+}
+.btn-info{
+
+	background-color:#4aaddb;
+	color: #fff;
+	margin-top: 2%;
+ 	width: 100%;
+    min-width: 50px;
+    max-width: 300px;
+	font-size: 20px;
+	border-radius: 30px;
+
+}
+.bg-grey{
+	background-color: #f6f6f6;
+	color: #3d3b47;
+	font-family: "Calibri";
+	font-size: 18px;
+}
+
+.galochka{
+	color:lime!important;
+}
+#part h2{
+	font-size: 55px;
+	margin: 0;
+	padding-top: 5%;
+	font-weight: bold;
+	padding-bottom: 6%;
+}
+
+@media screen and (max-width: 768px){
+	#part{
+		background-size: contain;	
+	}
+}
+
+#rang{
+	background-color:rgba(167,70,206,0.7);
+	padding-bottom: 4%;
+
+}
+#part{
+	background-image: url(doda/mor.jpg);
+	background-size: cover;	
+	font-size: 20px;
+	font-family: "Calibri";
+	padding-bottom: 6%;
+	
+}
+#catalog{
+	background-image: url(doda/jen.jpg);
+    background-size: cover;
+}
+body{
+	color: white;
+	font-family: "Comic Sans MS";
+	background-image: url(big/back.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#mi{
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 2%;
+	letter-spacing: 6px;
+	word-spacing: 10px;
+	line-height: 150%;
+}
+
+.thumbnail-my{
+	border-radius: 10%;
+}
+
+.thumbnail img{
+	width: 100%;
+	height: 100%;
+	margin-bottom: 10px;
+}
+
+.go{
+	border: solid;
+	border-radius: 100%;
+
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a{
+	color:#e24444!important;
+	background-color: #fff!important;
+}
+.btn-cus{
+	background-color: #211fef;
+	border-color: #211fef;
+	color: #fff;
+	font-weight: bold;
+}
+.btn-cus:hover{
+	background-color: #0502d6;
+	border-color: #0502d6;
+	color: #fff;
+	font-weight: bold;
+}
+
+#services{
+	background-color:rgba(48,45,63,0.7);
+
+}
+
+.container-fluid{
+	padding: 60px 50px;
+}
+.logo{
+	font-size: 200px;
+	color: #d85ea8;
+}
+.logo-small{
+	color:#d85ea8;
+	font-size: 50px;
+}
+@media screen and (max-width: 768px){
+	.col-sm-4{
+		text-align: center;
+		margin: 25px 0;
+	}
+}
+
+#Davr{
+	background-image:url('doda/gor.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#Davr1{
+	background-image:url('doda/mor.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#Davr2{
+	background-image:url('doda/icee.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.navbar-default .navbar-toggle{
+border-color: transparent!important;
+color: #fff!important;
+}
+
+.navbar{
+	margin-bottom: 0;
+	background-color:rgba(214,23,36,0.9);
+	z-index: 9999;
+	border:0;
+	font-size: 12px!important;
+	line-height: 1.42857143!important;
+	letter-spacing: 4px;
+	border-radius: 0;
+	padding: 0.5%;
+}
+.navbar li a, .navbar .navbar-brand{
+	color: #fff!important;
+	font-weight: bold!important;
+	font-size: 18px!important;
+	
+}
+.navbar li a{
+	font-size: 15px;
+	border-radius: 30px;
+
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}

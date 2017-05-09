@@ -1,0 +1,28 @@
+
+h2 {
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+.orient {
+	margin: 10%;
+}
+
+body {
+	background-color: #e0e0a3!important;
+}
+
+.color {
+	color: #262623!important;
+	background-color: white!important;
+	border-color:#fff!important; 
+}
+.ramka{
+	border:3px groove #bcbc23;
+	padding: 3%;
+	border-radius:20%;
+	box-shadow: 0 0 40px 3px #c2d125;
+}
+#qori{
+	width: 80%;
+	margin:auto;
+}
