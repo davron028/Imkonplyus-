@@ -258,7 +258,7 @@
         <a href="#myModal6" type="button" class="btn btn-info btn-lg" data-toggle="modal">
 			<img class="" src="doda/26.jpg" alt="" />
           <div class="caption">
-            <span class="">«Творожное» с шоколадной крошкой <span class="catalog-item__massa">80 гр</span></span>
+            <span class="">«Творожное» с шоколадом <span class="catalog-item__massa">80 гр</span></span>
             	
           </div>
         </a>
@@ -412,7 +412,7 @@
         <a href="#myModal8" type="button" class="btn btn-info btn-lg" data-toggle="modal">
 			<img class="" src="doda/30.jpg" alt="" />
           <div class="caption">
-            <span class="">«Мишка» фисташковое в пергаменте <span class="catalog-item__massa">80 гр</span></span>
+            <span class="">«Мишка» фисташковое <span class="catalog-item__massa">80 гр</span></span>
             
           </div>
         </a>
