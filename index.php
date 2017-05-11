@@ -316,7 +316,7 @@
 			<p><span class="glyphicon glyphicon-ok galochka"></span> Мороженое с вашим дизайном, <br> упаковкой и названием</p>
 		</div>
 	</div>
-	<a class="btn btn-info" href="/cooperation/for-partners/">Узнать больше о сотрудничестве</a> 
+	<a class="btn btn-info" href="#">Узнать больше о сотрудничестве</a> 
 	</div>
 </section>
 
