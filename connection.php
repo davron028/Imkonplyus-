@@ -2,7 +2,7 @@
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$database = "test";
+	$database = "imkonplu_k";
 
 	//Create connection
 	$conn = new mysqli($servername, $username, $password,$database);
