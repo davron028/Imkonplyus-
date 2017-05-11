@@ -1,6 +1,54 @@
+.bit{
+	color: black;
+}
+.catalog-item__description {
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.catalog-item__number {
+  display: block;
+  color: #565656;
+  margin-bottom: 10px;
+}
+.catalog-item__massa {
+  font-weight: normal;
+  display: block;
+}
+#right{
+	border:solid white;
+}
+.modal-open {
+    overflow-y: scroll;
+      
+      padding-right: 0 !important
+}
+.modal {
+
+   top: 10%;
+   z-index: 10040;
+  
+}
+.map{
+	padding: 0;
+}
+#setka{
+	padding: 0;
+}
+#myCarousel{
+	padding: 0;
+}
+#place{
+	font-size: 6vw;
+	margin-bottom: 8%;
+}
+.wid{
+	width: 60px;
+}
 #goup{
 	font-size: 30px;
 	font-weight: bold;
+	margin:0;
 }
 .bottom{
 	margin-bottom: 3%;
@@ -40,7 +88,7 @@
     max-width: 300px;
 	font-size: 20px;
 	border-radius: 30px;
-
+	white-space: normal;
 }
 .bg-grey{
 	background-color: #f6f6f6;
@@ -136,8 +184,12 @@ body{
 
 #services{
 	background-color:rgba(48,45,63,0.7);
-
 }
+#serv{
+	background-color:rgba(48,45,63,0.7);
+	margin: 0;
+}
+
 
 .container-fluid{
 	padding: 60px 50px;
