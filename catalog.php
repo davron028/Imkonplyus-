@@ -14,7 +14,29 @@
 </head>
 
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" class="bit">
-
+	<nav class="navbar navbar-default navbar-fixed-top col-md-12 col-sm-12 col-xs-12 col-lg-12">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+		</div>
+		<div class="collapse navbar-collapse" id="mynavbar">
+		<a href="#" class=""><img src="doda/Logo_IMKON_Plyus.png" width="9%"></a>
+			<ul class="nav navbar-nav navbar-right">
+        <li><a href="#catalog">Каталог</a></li>
+        <li><a href="#services">Услуги</a></li>
+				<li><a href="#part">О Нас</a></li>
+        <li><a href="#contact">Контакты</a></li>
+				<li><a href="#googleMap">Филиалы</a></li>
+        <li><a href="main.php" id="right">Войти</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
 
 
 <section id="catalog" class="text-center col-md-12 col-sm-12 col-xs-12 col-lg-12">
